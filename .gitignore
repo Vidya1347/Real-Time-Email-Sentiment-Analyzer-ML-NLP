@@ -21,14 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-mkdir screenshots
-git mv "Screenshot 2025-08-05 212059.png" screenshots/
-git mv "Screenshot 2025-08-05 212134.png" screenshots/
-git mv "Screenshot 2025-08-05 212205.png" screenshots/
-echo "screenshots/" >> .gitignore
-git rm -r --cached screenshots/
-git add .gitignore
-git commit -m "Move screenshots to folder and add to gitignore"
-git push
+
 
 
