@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+screenshots/
+git rm -r --cached screenshots/
+git commit -m "Stop tracking screenshots folder"
+git push
