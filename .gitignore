@@ -23,5 +23,7 @@ yarn-debug.log*
 yarn-error.log*
 screenshots/
 git rm -r --cached screenshots/
-git commit -m "Stop tracking screenshots folder"
+git commit -m "Ignore screenshots folder"
 git push
+public/screenshots/
+
