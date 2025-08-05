@@ -76,3 +76,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ![Real-Time-Email-Sentiment-Analyzer_2](["C:\Users\k Mahanth\OneDrive\Pictures\Screenshots\Screenshot 2025-08-05 212134.png"](https://github.com/Vidya1347/Real-Time-Email-Sentiment-Analyzer-ML-NLP/blob/main/Screenshot%202025-08-05%20212134.png?raw=true))
 
 ![Real-Time-Email-Sentiment-Analyzer_3](["C:\Users\k Mahanth\OneDrive\Pictures\Screenshots\Screenshot 2025-08-05 212059.png"](https://github.com/Vidya1347/Real-Time-Email-Sentiment-Analyzer-ML-NLP/blob/main/Screenshot%202025-08-05%20212205.png?raw=true))
+## 📸 Screenshots
+
+### Main Interface  
+![Main Interface](./assets/screenshots/Screenshot-2025-08-05-212205.png)
+
+### Chat Window Open  
+![Chat Window](./assets/screenshots/Screenshot-2025-08-05-212134.png)
+
+### FAQ Options  
+![FAQ Options](./assets/screenshots/Screenshot-2025-08-05-212059.png)
