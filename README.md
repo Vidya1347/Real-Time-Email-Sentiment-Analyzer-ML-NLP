@@ -71,13 +71,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## 📸 Screenshots
 
-### Main Interface  
+
 ![Real-Time-Email-Sentiment-Analyzer_1](https://github.com/Vidya1347/Real-Time-Email-Sentiment-Analyzer-ML-NLP/blob/main/Screenshot%202025-08-05%20212205.png?raw=true)
 
-### Chat Window Open  
 ![Real-Time-Email-Sentiment-Analyzer_2](https://github.com/Vidya1347/Real-Time-Email-Sentiment-Analyzer-ML-NLP/blob/main/Screenshot%202025-08-05%20212134.png?raw=true)
 
-### FAQ Options  
+
 ![Real-Time-Email-Sentiment-Analyzer_3](https://github.com/Vidya1347/Real-Time-Email-Sentiment-Analyzer-ML-NLP/blob/main/Screenshot%202025-08-05%20212059.png?raw=true)
 git add README.md
 git commit -m "Fix screenshot links with GitHub raw URLs"
