@@ -68,24 +68,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-## 📸 Screenshots
 
-
-![Real-Time-Email-Sentiment-Analyzer_1](["C:\Users\k Mahanth\OneDrive\Pictures\Screenshots\Screenshot 2025-08-05 212205.png"](https://github.com/Vidya1347/Real-Time-Email-Sentiment-Analyzer-ML-NLP/blob/main/Screenshot%202025-08-05%20212059.png?raw=true))
-
-![Real-Time-Email-Sentiment-Analyzer_2](["C:\Users\k Mahanth\OneDrive\Pictures\Screenshots\Screenshot 2025-08-05 212134.png"](https://github.com/Vidya1347/Real-Time-Email-Sentiment-Analyzer-ML-NLP/blob/main/Screenshot%202025-08-05%20212134.png?raw=true))
-
-![Real-Time-Email-Sentiment-Analyzer_3](["C:\Users\k Mahanth\OneDrive\Pictures\Screenshots\Screenshot 2025-08-05 212059.png"](https://github.com/Vidya1347/Real-Time-Email-Sentiment-Analyzer-ML-NLP/blob/main/Screenshot%202025-08-05%20212205.png?raw=true))
 ## 📸 Screenshots
 
 ### Main Interface  
-![Main Interface](https://github.com/Vidya1347/Real-Time-Email-Sentiment-Analyzer-ML-NLP/blob/main/Screenshot%202025-08-05%20212205.png?raw=true)
+![Real-Time-Email-Sentiment-Analyzer_1](https://github.com/Vidya1347/Real-Time-Email-Sentiment-Analyzer-ML-NLP/blob/main/Screenshot%202025-08-05%20212205.png?raw=true)
 
 ### Chat Window Open  
-![Chat Window](https://github.com/Vidya1347/Real-Time-Email-Sentiment-Analyzer-ML-NLP/blob/main/Screenshot%202025-08-05%20212134.png?raw=true)
+![Real-Time-Email-Sentiment-Analyzer_2](https://github.com/Vidya1347/Real-Time-Email-Sentiment-Analyzer-ML-NLP/blob/main/Screenshot%202025-08-05%20212134.png?raw=true)
 
 ### FAQ Options  
-![FAQ Options](https://github.com/Vidya1347/Real-Time-Email-Sentiment-Analyzer-ML-NLP/blob/main/Screenshot%202025-08-05%20212059.png?raw=true)
+![Real-Time-Email-Sentiment-Analyzer_3](https://github.com/Vidya1347/Real-Time-Email-Sentiment-Analyzer-ML-NLP/blob/main/Screenshot%202025-08-05%20212059.png?raw=true)
 git add README.md
 git commit -m "Fix screenshot links with GitHub raw URLs"
 git push
